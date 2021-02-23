@@ -20,7 +20,7 @@ My rationale is that review count is a measure of popularity. If review count is
 
 I looked at overall distribution of ratings, correlations between price and rating, and correlations between price and review counts.
 
-![graph](../visualizations/price_rev.png)
+![graph](visualizations/price_rev.png)
 
 ## Conclusion
 My findings indicate that businesses with two dollar signs (i.e. medium cost) receive the most reviews, and that price is not indicative of the rating.
