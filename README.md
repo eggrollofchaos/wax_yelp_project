@@ -29,13 +29,14 @@ To stand the best chance of being successful, the shrewd investor should look at
 
 ## Recommendations
 Based on my criteria, I recommend the following restaurants:
+
 NYC:
-Izakaya MEW  |  2344 Reviews
-Rating: 4  |  Price: $$  |  Zip Code: 10001
+  Izakaya MEW  |  2344 Reviews
+  Rating: 4  |  Price: $$  |  Zip Code: 10001
 
 LA:
-Daikokuya Little Tokyo  |  8641 Reviews
-Rating: 4  |  Price: $$  |  Zip Code: 90012
+  Daikokuya Little Tokyo  |  8641 Reviews
+  Rating: 4  |  Price: $$  |  Zip Code: 90012
 
 Overall:
-Daikokuya Little Tokyo
+  Daikokuya Little Tokyo
